@@ -13,11 +13,6 @@
 	url = https://github.com/kaneplusplus/bigmemory
 	shallow = true
 	registered = true
-[submodule "listdown"]
-	path = listdown
-	url = https://github.com/kaneplusplus/listdown
-	shallow = true
-	registered = true
 [submodule "preference"]
 	path = preference
 	url = https://github.com/kaneplusplus/preference

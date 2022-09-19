@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "listdown",
-    "oncran": true
-  },
-  {
     "package": "preference",
     "oncran": true
   }
