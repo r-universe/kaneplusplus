@@ -1,10 +1,10 @@
 [
   {
-    "package": "bigmemory",
+    "package": "basket",
     "oncran": true
   },
   {
-    "package": "basket",
+    "package": "bigmemory",
     "oncran": true
   },
   {

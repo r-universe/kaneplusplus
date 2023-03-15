@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bigmemory"]
-	path = bigmemory
-	url = https://github.com/kaneplusplus/bigmemory
-	shallow = true
-	registered = true
 [submodule "basket"]
 	path = basket
 	url = https://github.com/kaneplusplus/basket
+	shallow = true
+	registered = true
+[submodule "bigmemory"]
+	path = bigmemory
+	url = https://github.com/kaneplusplus/bigmemory
 	shallow = true
 	registered = true
 [submodule "listdown"]
