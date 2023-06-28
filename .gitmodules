@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "basket"]
 	path = basket
 	url = https://github.com/kaneplusplus/basket
-	shallow = true
-	registered = true
 [submodule "bigmemory"]
 	path = bigmemory
 	url = https://github.com/kaneplusplus/bigmemory
-	shallow = true
-	registered = true
 [submodule "listdown"]
 	path = listdown
 	url = https://github.com/kaneplusplus/listdown
-	shallow = true
-	registered = true
 [submodule "preference"]
 	path = preference
 	url = https://github.com/kaneplusplus/preference
-	shallow = true
-	registered = true
