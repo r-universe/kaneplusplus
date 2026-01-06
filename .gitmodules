@@ -8,9 +8,6 @@
 [submodule "bigmemory"]
 	path = bigmemory
 	url = https://github.com/kaneplusplus/bigmemory
-[submodule "listdown"]
-	path = listdown
-	url = https://github.com/kaneplusplus/listdown
 [submodule "preference"]
 	path = preference
 	url = https://github.com/kaneplusplus/preference
